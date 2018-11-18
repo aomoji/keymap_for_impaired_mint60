@@ -2,7 +2,7 @@
 
 Alternative keymap for mint60 that has impaired Esc, Tab, Caps lock, Left shift key.
 
-[keymap image](./image/keymap.png)
+![keymap image](./image/keymap.png)
 
 
 If you want to enable mouse key, change `MOUSEKEY_ENABLE` in `rules.mk` and write the mouse settings in `config.h` .
